@@ -1,5 +1,5 @@
 # ------------------------------------------------------------
-# Stroke Prediction Dataset - Simple EDA (clean visuals + report)
+# Stroke Prediction Dataset 
 # ------------------------------------------------------------
 # Works with Kaggle file: healthcare-dataset-stroke-data.csv
 #
@@ -206,4 +206,5 @@ with open("outputs/report.md", "w", encoding="utf-8") as f:
 
 print("\n✅ Done!")
 print(" - Plots saved in figs/")
+
 print(" - Summary saved to outputs/report.md")
